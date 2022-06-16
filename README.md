@@ -1,7 +1,7 @@
 # ghias_todolistapp
 
 To-Do Lists app using Django 
-Updated: 13 June 2022
+Updated: 16 June 2022
 
 1. Features you would like your project to offer
     1. Create lists
@@ -10,5 +10,5 @@ Updated: 13 June 2022
     4. Remove lists
 
 2. Next steps
-    1. Write app code
-    2. Containerize Django web app to Docker
+    1. Containerize Django web app to Docker
+    2. Run pytest
